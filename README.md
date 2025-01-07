@@ -1,4 +1,7 @@
-- 🌱 Hi, I’m Thanh Tam, a passionate 4th-year IT student at Can Tho University, deeply interested in exploring innovative technologies and honing my skills in software development and problem-solving. I am enthusiastic about coding, constantly learning new tools, and contributing to exciting projects that challenge and inspire me.
+- 👋 Hi, I’m Thanh Tam, a passionate 4th-year IT student at Can Tho University.  
+- 💻 I am deeply interested in learning, exploring innovative technologies, coding and honing my skills in software development and problem-solving.
+- 😍 I find great joy and excitement in building and contributing to meaningful projects, and I'm always eager to further challenge myself through these experiences.
+- 🌱 Contact with me via ```bash ntthanhtam.forwork@gmail.com ```. 
 <!---
 ngothuythanhtam/ngothuythanhtam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
