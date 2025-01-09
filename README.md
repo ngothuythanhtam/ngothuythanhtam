@@ -9,7 +9,7 @@
 - 😍 I am deeply interested in learning, exploring innovative technologies, coding, and honing my skills in software development and problem-solving.
 
 <h3 align="left">Connect with me</h3>
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:ntthanhtam.forwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,16 +27,14 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br />
 <div align="center">
-    <!-- Frontend Tools -->
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css" alt="Frontend Languages & Frameworks" />
-    <!-- IDEs and Design Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,eclipse" alt="Tools & IDEs" />
-    <!-- Frameworks and Languages -->
-    <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,python,dotnet,javascript,express" alt="Languages & Frameworks" />
-    <!-- Databases and Deployment -->
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nginx,php,postman" alt="Databases & Deployment Tools" />
-    <!-- Other Languages -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" alt="Programming Languages" />
+    <h3>🛠️ Tools & IDEs</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,eclipse,postman" alt="Tools & IDEs" />
+
+    <h3>📜 Languages</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,cs,java,dart,php" alt="Languages" />
+
+    <h3>🚀 Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,flutter,nodejs,express,dotnet,mongodb,nginx" alt="Frameworks" />
 </div>
 
 <!---
