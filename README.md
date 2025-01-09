@@ -27,14 +27,18 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br />
 <div align="center">
-    <h3>🛠️ Tools & IDEs</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,eclipse,postman" alt="Tools & IDEs" />
-
-    <h3>📜 Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,cs,java,dart,php" alt="Languages" />
-
-    <h3>🚀 Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,flutter,nodejs,express,dotnet,mongodb,nginx" alt="Frameworks" />
+    <div>
+        <h3>🛠️ Tools & IDEs</h3>
+        <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,eclipse,postman" alt="Tools & IDEs" />
+    </div>
+    <div>
+        <h3>📜 Languages</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,cs,java,dart,php" alt="Languages" />
+    </div>
+    <div>
+        <h3>🚀 Frameworks</h3>
+        <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,flutter,nodejs,express,dotnet,mongodb,nginx" alt="Frameworks" />
+    </div>
 </div>
 
 <!---
