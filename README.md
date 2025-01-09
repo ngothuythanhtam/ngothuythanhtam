@@ -3,7 +3,7 @@
 </h1>
 
 <div>
- 🔭 A passionate 4th-year IT student at **Can Tho University**
+ 🔭 A passionate 4th-year IT student at Can Tho University.
   
  😍 I am deeply interested in learning, exploring innovative technologies, coding and honing my skills in software development and problem-solving.
 </div>
