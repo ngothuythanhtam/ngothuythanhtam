@@ -32,17 +32,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<hr/>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
 <!---
 ngothuythanhtam/ngothuythanhtam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
