@@ -2,13 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tam!;" />
 </h1>
 
-<h3 align="center">
-    😍 I am deeply interested in learning, exploring innovative technologies, coding, and honing my skills in software development and problem-solving.
-</h3>
-
 - 🔭 I’m currently studying at **Can Tho University.**
 
 - 🌱 I’m currently learning **Flutter, Dart, C#, .NET, Figma**
+
+- 😍 I am deeply interested in learning, exploring innovative technologies, coding, and honing my skills in software development and problem-solving. 
 
 </hr>
 
