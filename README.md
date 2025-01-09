@@ -7,16 +7,14 @@
 - 🌱 I’m currently learning **Flutter, Dart, C#, .NET, Figma**
 
 - 😍 I am deeply interested in learning, exploring innovative technologies, coding, and honing my skills in software development and problem-solving.
-
-<div align="left"> 
-  <h3 align="left">Connect with me: </h3>
-  <a href="mailto:ntthanhtam.forwork@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/tam-ngo-a21a4b345/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />    
-  </a>
-</div>
+  
+<h3 align="left">Connect with me: </h3>
+<a href="mailto:ntthanhtam.forwork@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/tam-ngo-a21a4b345/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />    
+</a>
  
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br />
