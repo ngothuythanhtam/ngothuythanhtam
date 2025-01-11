@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE8695&lines=Hi+There!+👋;+I'm+Thanh+Tam!;" />
 </h1>
 
-- 🔭 I’m currently studying at **Can Tho University.**
+- 🔭 I’m a senior student at **Can Tho University.**
 
 - 🌱 I’m currently learning **Flutter, Dart, C#, .NET, Figma**
 
