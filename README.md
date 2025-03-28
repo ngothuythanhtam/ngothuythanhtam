@@ -12,7 +12,7 @@
 <a href="mailto:ntthanhtam.forwork@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://www.linkedin.com/in/tam-ngo-a21a4b345/" target="_blank">
+<a href="https://www.linkedin.com/in/t%C3%A2m-ng%C3%B4-664637222/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />    
 </a>
  
