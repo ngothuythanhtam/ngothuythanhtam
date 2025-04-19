@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE8695&lines=Hi+!+👋;+I'm+Thanh+Tam!;" />
 </h1>
 
-- 🔭 I’m a senior student at **Can Tho University.**
+- 🔭 I’m a senior student at **School of Information Technology, Can Tho University.**
 
-- 🌱 I’m currently learning **Flutter, Dart, C#, .NET, Figma**
+- 🌱 I’m currently learning **Flutter, Dart, C#, .NET, Figma, React**
 
 - 😍 I am deeply interested in learning, exploring innovative technologies, coding, and honing my skills in software development and problem-solving.
   
