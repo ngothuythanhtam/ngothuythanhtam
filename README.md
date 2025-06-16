@@ -20,7 +20,7 @@
 <br />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,cs,java,dart,php" alt="Languages" />
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,flutter,nodejs,express,dotnet,mongodb,nginx, mysql" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,flutter,nodejs,express,dotnet,mongodb,nginx,mysql" alt="Frameworks" />
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,eclipse,idea,postman" alt="Tools & IDEs" />
 </div>
 
